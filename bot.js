@@ -782,7 +782,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : EX Clan ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`+help | SwEeT`,"http://twitch.tv/SwEeT")
+client.user.setGame(`+help | System`,"http://twitch.tv/DrEaM")
 client.user.setStatus("dnd")
 });
 
